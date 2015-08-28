@@ -1,0 +1,39 @@
+body{
+ background-color: black;
+ color: #ffffff;
+}
+
+.tabla1{
+	border-width: 6px;
+    border-color: red;
+    border-style: double;
+}
+
+.tabla1 .img-usuario{
+	width:500px;
+	height:500px;
+}
+
+.tabla1 .des-usuario{
+	width:500px;
+}
+.margen{
+	margin: 20px 20px 20px 20px;
+}
+
+.margen table{
+	text-align: center;
+}
+
+.margen a{
+	background-color: transparent; border: 0px;
+}
+
+.margen img{
+	width:50;
+	height:50;
+	border-radius: 50px 50px 50px 50px; 
+	overflow:hidden;
+	margin: 10px;
+	padding: 10px;
+}
